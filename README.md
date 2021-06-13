@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="369" alt="X111" img src="https://user-images.githubusercontent.com/76184559/121821412-c17f2d80-cc66-11eb-9865-60b91880fb60.PNG"/>
+  <img width="369" alt="X111" img src="https://user-images.githubusercontent.com/76184559/121821537-a95bde00-cc67-11eb-8a6b-a0dad3a84820.PNG"/>
 </p>
 
 Thynnus provides a new feature, annotation, to Python checking the element is meant to override an element declared in a superclass. Thynnus is in a single file with no dependencies other than the [Python Standard Library](https://docs.python.org/3/library/).
