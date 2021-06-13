@@ -1,3 +1,5 @@
+## Thynnus
+
 Thynnus provides a new feature, annotation, to Python checking the element is meant to override an element declared in a superclass. Thynnus is in a single file with no dependencies other than the [Python Standard Library](https://docs.python.org/3/library/).
 
 ## Case I
