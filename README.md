@@ -59,7 +59,7 @@ class C(B):
 
 ## Case III (Working in Progress)
 
-- The decorator will not only check a method under the same name but also compare the decorated method's signature to the superclass method's signature. For example, the case below generates an error because the signature does not match.
+- The decorator will check a method under the same name and compare the decorated method's signature to the superclass method's signature. For example, the case below generates an error because the signature does not match.
 
 ```python
 class A:
