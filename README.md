@@ -33,7 +33,7 @@ class B(A):
 annotation.NoSuperClassMethodFound: No method named n found in superclass.
 ```
 
-## Case II (Working in Progress)
+## Case II 
 
 - Give the classes `A` and `B` below:
 
@@ -57,7 +57,7 @@ class C(B):
 
 - The decorator will inspect all superclasses and check if a method  `m` can be override using `inspect.getmro`.
 
-## Case III (Working in Progress)
+## Case III 
 
 - The decorator will check a method under the same name and compare the decorated method's signature to the superclass method's signature. For example, the case below generates an error because the signature does not match.
 
